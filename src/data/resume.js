@@ -1,7 +1,7 @@
 export const personal = {
   name: 'Inderbir Singh Bhinder',
-  role: 'Frontend-heavy Full Stack Engineer',
-  tagline: '5+ years building scalable web apps with React, Next.js & TypeScript',
+  role: 'Software Engineer II',
+  tagline: '5+ years building scalable web apps with React, Next.js , Java , NodeJs & TypeScript',
   location: 'Gurugram, India',
   email: 'ibsbhinder54@gmail.com',
   phone: '9592615544',
