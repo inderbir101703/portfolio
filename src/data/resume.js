@@ -50,7 +50,7 @@ export const skills = [
 export const experience = [
   {
     company: 'Deloitte',
-    role: 'Software Engineer II,
+    role: 'Software Engineer II',
     period: '2025 – Present',
     bullets: [
       'Owned end-to-end development of a scalable patient scheduling platform using Next.js & Java, improving performance by **25%**',
