@@ -50,8 +50,8 @@ export const skills = [
 export const experience = [
   {
     company: 'Deloitte',
-    role: 'Frontend Full Stack Consultant',
-    period: '2024 – Present',
+    role: 'Software Engineer II,
+    period: '2025 – Present',
     bullets: [
       'Owned end-to-end development of a scalable patient scheduling platform using Next.js & Java, improving performance by **25%**',
       'Designed & integrated a **24/7 AI-powered chatbot**, reducing manual support effort and improving response time',
@@ -76,7 +76,7 @@ export const experience = [
   {
     company: 'Publicis Sapient',
     role: 'Associate Engineer L1',
-    period: '2023',
+    period: '2021-2023',
     bullets: [
       'Improved transactional workflows, boosting page load speed by **50%** and reducing complaints by 20%',
       'Delivered accessible UI aligned with **WCAG standards**',
