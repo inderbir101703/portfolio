@@ -7,7 +7,7 @@ export const personal = {
   phone: '9592615544',
   links: {
     github:    'https://github.com/inderbir101703',
-    linkedin:  'https://www.linkedin.com/in/inderbir-bhinder-b4a54a159/',
+    linkedin:  'https://www.linkedin.com/in/inderbir-singh-b4a54a159/',
     leetcode:  'https://leetcode.com/u/ibsbhinder54/',
     aiProject: 'https://ai-agent-frontend-ten-rose.vercel.app/',
   },
